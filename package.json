@@ -1,0 +1,25 @@
+{
+  "name": "sublime-block-comment",
+  "main": "./lib/sublime-block-comment",
+  "version": "0.0.0",
+  "description": "Toggle block comments like in Sublime Text.",
+  "keywords": [
+    "block",
+    "comment",
+    "block-comment",
+    "sublime",
+    "text",
+    "sublime-text"
+  ],
+  "activationCommands": {
+    "atom-text-editor:not([mini])": [
+      "sublime-block-comment:toggle"
+    ]
+  },
+  "repository": "https://github.com/UltCombo/atom-sublime-block-comment",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
