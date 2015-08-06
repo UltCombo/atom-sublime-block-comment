@@ -1,7 +1,7 @@
 {
   "name": "sublime-block-comment",
   "main": "./lib/sublime-block-comment",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Toggle block comments like in Sublime Text.",
   "keywords": [
     "block",
