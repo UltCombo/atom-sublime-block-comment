@@ -2,6 +2,14 @@
 
 An Atom Editor plugin for toggling block comments, inspired by Sublime Text.
 
+# Install
+
+```
+apm install sublime-block-comment
+```
+
+Or look for `sublime-block-comment` in your Atom settings' Install tab. :smiley:
+
 # Features
 
 - Select code and hit the keybinding to place a block comment around it.
