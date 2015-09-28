@@ -1,3 +1,10 @@
+## 0.2.0
+
+- Added support for HTML and embedded languages.
+- Fixed resources disposal on package deactivation. You may need to restart Atom after updating, as the previous versions did not handle package deactivation correctly.
+- Refactoring: it is much easier to add support for more languages now.
+- Cleanup: fixed export syntax to not break in future Babel versions ([[1]](https://github.com/babel/babel/issues/2212)).
+
 ## 0.1.1
 
 - Fixed uncommenting when selection range start and range end are at the end of a comment close token followed by code in the same line.
