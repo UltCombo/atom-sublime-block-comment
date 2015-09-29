@@ -1,3 +1,7 @@
+## 0.2.1
+
+- README: removed outdated info, added contributing section.
+
 ## 0.2.0
 
 - Added support for HTML and embedded languages.
