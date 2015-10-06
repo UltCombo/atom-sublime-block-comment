@@ -1,3 +1,7 @@
+## 0.3.1
+
+- Improved PHP support: now the correct comment syntax is applied to HTML inside PHP files (outside of `<?php ?>` and `<?= ?>` tags).
+
 ## 0.3.0
 
 - Added support for the PHP language.
