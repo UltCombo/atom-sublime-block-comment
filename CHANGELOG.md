@@ -1,6 +1,6 @@
 ## 0.4.0
 
-- Added "Pad with spaces" setting. (#3)
+- Added "Pad with spaces" setting. ([#3](https://github.com/UltCombo/atom-sublime-block-comment/pull/3))
 
 ## 0.3.1
 
