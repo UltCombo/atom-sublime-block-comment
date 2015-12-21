@@ -15,6 +15,7 @@ Or look for `sublime-block-comment` in your Atom settings' Install tab. :smiley:
 - Select code and hit the keybinding to place a block comment around it.
 - Place the cursor anywhere inside a block comment and hit the keybinding to uncomment it.
 - Hit the keybinding with an empty selection to create an empty block comment, ready to type.
+- Optionally pad the selection with whitespace when commenting (you can enable this in the package settings).
 - Supports multiple cursors.
 
 # Keymap

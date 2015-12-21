@@ -1,3 +1,7 @@
+## 0.4.0
+
+- Added "Pad with spaces" setting. (#3)
+
 ## 0.3.1
 
 - Improved PHP support: now the correct comment syntax is applied to HTML inside PHP files (outside of `<?php ?>` and `<?= ?>` tags).
