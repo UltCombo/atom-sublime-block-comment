@@ -1,3 +1,7 @@
+## 0.5.0
+
+- Added support for the Python language. (thanks @FelixVicis!)
+
 ## 0.4.0
 
 - Added "Pad with spaces" setting. ([#3](https://github.com/UltCombo/atom-sublime-block-comment/pull/3))
