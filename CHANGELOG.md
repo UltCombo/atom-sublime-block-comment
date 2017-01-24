@@ -1,6 +1,6 @@
 ## 0.5.1
 
-- Fixed a small optimization.
+- Fixed a small optimization. (@UltCombo)
 
 ## 0.5.0
 
