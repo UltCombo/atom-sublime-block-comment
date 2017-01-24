@@ -1,3 +1,7 @@
+## 0.5.1
+
+- Fixed a small optimization.
+
 ## 0.5.0
 
 - Added support for the Python language. ([#4](https://github.com/UltCombo/atom-sublime-block-comment/pull/4) @FelixVicis, @UltCombo)
